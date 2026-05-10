@@ -32,5 +32,6 @@ Key takeaways from this lab.
 
 ## Completed Labs
 
-- [ ] Add your first lab
+- [04-permissions-and-ownership-lab.md](labs/04-permissions-and-ownership-lab.md)
+
 

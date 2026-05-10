@@ -9,6 +9,7 @@
 - Most servers run Linux
 - Tools like Docker, Kubernetes, Terraform run best on Linux
 - Automation and scripting are easier
+- Cost effective and highly customisable
 
 ## Linux vs Windows vs Mac
 - Linux = command-line focused
